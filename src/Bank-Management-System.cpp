@@ -42,8 +42,8 @@ struct sUser {
 };
 
 // Global constants
-const string ClientsFileName = "Files\\Clients.txt";
-const string UsersFileName = "Files\\Users.txt";
+const string ClientsFileName = "..\\Files\\Clients.txt";
+const string UsersFileName = "..\\Files\\Users.txt";
 vector<sClient> vClients;
 vector<sUser> vUsers;
 sUser CurrentUser;//to access it via All screens

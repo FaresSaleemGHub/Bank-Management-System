@@ -20,7 +20,7 @@ struct sClient {
 };
 
 //Gobals
-const string ClientsFileName = "Files\\Clients.txt";
+const string ClientsFileName = "..\\Files\\Clients.txt";
 sClient CurrentClient;
 vector <sClient> vClients;
 
