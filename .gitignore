@@ -1,0 +1,8 @@
+build/
+*.exe
+*.obj
+*.o
+*.log
+*.bak
+*.tmp
+*.pdb
