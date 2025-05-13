@@ -3,6 +3,8 @@
 
 A cleanly structured, object-oriented C++ console application for managing bank clients, users, and transactions with file-based data persistence.
 
+---
+
 ## 📖 Description
 A fully functional **console-based Bank Management System** developed in modern C++. This project demonstrates real-world OOP concepts, file-based data persistence, layered UI abstraction, and clean modular design. It provides tools for managing clients, users, transactions, and system activity logs securely and efficiently.
 
