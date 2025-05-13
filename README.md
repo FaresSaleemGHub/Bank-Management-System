@@ -32,6 +32,22 @@ A fully functional **console-based Bank Management System** developed in modern 
 
 ---
 
+### 🧠 Key Programming Techniques
+
+- Object-Oriented Programming (OOP)
+- Inheritance & Polymorphism
+- Interface classes with pure virtual functions
+- Template functions and classes
+- File-based data persistence using `.txt` files
+- Static and global variable management
+- Modular folder and code structure (SRP)
+- Enum-based state and control flow
+- Console UI design and screen color control
+- Input validation utilities
+- Simulated properties (`__declspec(property)`)
+
+---
+
 ## 🛠️ Technologies Used
 
 - C++17
